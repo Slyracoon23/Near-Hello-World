@@ -1,0 +1,1 @@
+/home/slyracoon23/Documents/Near/spring-challenge/hello-world/contract/target/wasm32-unknown-unknown/debug/libgreeter.rlib: /home/slyracoon23/Documents/Near/spring-challenge/hello-world/contract/src/lib.rs
