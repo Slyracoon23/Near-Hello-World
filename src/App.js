@@ -42,7 +42,7 @@ export default function App() {
     return (
       <main>
         <h1>Welcome to NEAR!</h1>
-        <p>
+        {/* <p>
           To make use of the NEAR blockchain, you need to sign in. The button
           below will sign you in using NEAR Wallet.
         </p>
@@ -54,7 +54,7 @@ export default function App() {
         </p>
         <p>
           Go ahead and click the button below to try it out:
-        </p>
+        </p> */}
         <p style={{ textAlign: 'center', marginTop: '2.5em' }}>
           <button onClick={login}>Sign in</button>
         </p>
